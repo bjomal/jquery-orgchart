@@ -1,6 +1,8 @@
 jquery-orgchart
 ===============
-
+----------------------------------------------------------------
+this is a fork of the https://github.com/caprica/jquery-orgchart
+----------------------------------------------------------------
 JQuery Organisation Chart Plugin
 
 This is a small JQuery plugin that generates a hierarchical orginisational chart from a nested unordered list.
